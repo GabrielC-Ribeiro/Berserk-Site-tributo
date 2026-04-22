@@ -1,7 +1,7 @@
 # Site tributo Berserk
-Projeto para fins de estudo, desenvolvido com o objetivo de criar uma página tributo, escolhida por gosto pessoal.
+Este foi meu primeiro projeto front-end, desenvolvido com HTML5 e CSS3 para fins de estudo. A proposta é criar uma página tributo dedicada à série de mangás Berserk, escolhida por interesse pessoal.
 
-O projeto também busca apresentar e popularizar a história para aqueles que ainda não conhecem.
+O projeto também busca apresentar a obra a pessoas que ainda não a conhecem.
 
 [Acesse o site](https://gabrielc-ribeiro.github.io/Berserk-Site-tributo/)
 
