@@ -28,4 +28,4 @@ Durante o desenvolvimento, pratiquei e aprendi:
 
 ## 👨‍💻 Autor
 
-[Gabriel C. Ribeiro](https://gabrielc-ribeiro.github.io/Berserk-Site-tributo/)
+[Gabriel C. Ribeiro](https://github.com/GabrielC-Ribeiro)
