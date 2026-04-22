@@ -1,0 +1,123 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#000;
+    background-color: #000;
+    font-size: 18px;
+}
+
+h2{
+    color: #850202;
+}
+
+.container{
+    max-width: 1100px;
+    background-color: #fff;
+    position: relative;
+    margin:20px auto;
+    padding: 30px 50px;
+    border-radius: 15px;
+
+}
+
+header{
+    text-align: center;
+}
+
+.mainT{
+    font-size: 48px;
+    color:#850202 ;
+}
+
+.mainP{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.imgV1-container{
+    text-align: center;
+    background-color: #eee;
+}
+
+.caption{
+    font-style: italic;
+}
+
+.about-container{
+    margin: 25px auto;
+    padding: 25px;
+    border-bottom:1px #850202 dashed;
+   
+
+}
+
+.quotes-container{
+    margin: 25px auto;
+    padding: 25px;
+    border-bottom:1px #850202 dashed;  
+}
+
+.blockquotes-container{
+    background-color: #eee;
+}
+
+.blockquotes-container p{
+    font-size: 20px;
+}
+.author-container{
+    margin: 25px auto;
+    padding: 25px;
+    border-bottom:1px #850202 dashed;  
+}
+
+.imgAuthor{
+    text-align: center;
+}
+
+.curiosities-container{
+    margin: 25px auto;
+    padding: 25px;
+    border-bottom:1px #850202 dashed;  
+}
+
+ul{
+    background-color: #eee;
+}
+
+.list{
+    margin: 10px;
+}
+.recommended-video{
+    margin: 25px auto;
+    padding: 25px;
+}
+.iframe-video{
+    text-align: center;
+}
+
+.panini-external-link{
+    margin: 25px auto;
+    padding: 25px;
+    border-bottom:1px #850202 dashed;  
+}
+.panini-external-link a{
+    color: #850202;
+}
+
+.footer {
+    background-color: #111;
+    color: #fff;
+    padding: 20px;
+    border-top: 2px solid #850202;
+    margin-top: 30px;
+    font-size: 14px;
+    text-align: right;
+}
+
+.footer a{
+    color: #e01313;
+}
+
+
