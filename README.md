@@ -1,8 +1,9 @@
 # Site tributo Berserk
-
 Projeto para fins de estudo, desenvolvido com o objetivo de criar uma página tributo, escolhida por gosto pessoal.
 
 O projeto também busca apresentar e popularizar a história para aqueles que ainda não conhecem.
+
+[Acesse o site](https://gabrielc-ribeiro.github.io/Berserk-Site-tributo/)
 
 ## 📄 Conteúdo do site
 
